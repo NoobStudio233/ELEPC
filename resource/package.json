@@ -1,0 +1,11 @@
+{
+  "name": "festive-seed-withstand-w5le3",
+  "productName": "festive-seed-withstand-w5le3",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "electron ."
+  }
+}
